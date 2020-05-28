@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 166,
-    "x": 841,
-    "y": 890
+    "width": 213,
+    "x": 836,
+    "y": 1057
   },
-  "glyphBounds": "{{0, 3}, {162, 52}}",
+  "glyphBounds": "{{0, 3}, {190, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

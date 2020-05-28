@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 18,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Brand Landing Page"
+    "string": "Home Page"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 131,
-    "x": 422,
-    "y": 209
+    "width": 86,
+    "x": 419,
+    "y": 208
   },
-  "glyphBounds": "{{1, 3}, {129, 15}}",
+  "glyphBounds": "{{1, 3}, {84, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Brand Landing Page",
+  "name": "Home Page",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,

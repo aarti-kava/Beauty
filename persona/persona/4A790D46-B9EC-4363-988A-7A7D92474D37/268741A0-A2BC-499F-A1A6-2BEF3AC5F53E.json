@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 185,
+    "width": 214,
     "x": 1082,
-    "y": 276
+    "y": 274
   },
-  "glyphBounds": "{{0, 3}, {177, 55}}",
+  "glyphBounds": "{{0, 2}, {203, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 81,
+        "length": 50,
         "location": 0
       }
     ],
-    "string": "Browses and scrolls through the page | Taps a Lipsticks banner that interests her"
+    "string": "Opens beauty app on phone => lands on the homepage"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 194,
-    "x": 421,
-    "y": 276
+    "width": 189,
+    "x": 419,
+    "y": 277
   },
-  "glyphBounds": "{{0, 3}, {179, 52}}",
+  "glyphBounds": "{{0, 2}, {166, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Browses and scrolls",
+  "name": "Opens beauty app on",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,

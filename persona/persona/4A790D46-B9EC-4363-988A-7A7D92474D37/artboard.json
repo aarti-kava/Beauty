@@ -75,6 +75,10 @@
       "id": "2FB381A4-D02F-4296-89D0-2F68947D7064"
     },
     {
+      "class": "bitmap",
+      "id": "648D052E-518C-4F09-A865-604A8A20F633"
+    },
+    {
       "class": "text",
       "id": "490EDF2A-36B7-405A-902E-76866012E4FE"
     },
@@ -267,16 +271,12 @@
       "id": "899F0066-84B2-4251-9C1A-A7EC8D8A935B"
     },
     {
-      "class": "rectangle",
-      "id": "D8F75E2B-4C76-4D00-A414-742FBD066C69"
+      "class": "group",
+      "id": "E3F7493C-E071-4C17-BB7F-82F8F211168E"
     },
     {
       "class": "rectangle",
       "id": "C48D0F5A-19F5-4412-8D80-BB277DC0EF96"
-    },
-    {
-      "class": "text",
-      "id": "42259343-7BC9-429B-885C-F8CAFB0D5252"
     },
     {
       "class": "text",
@@ -336,10 +336,6 @@
     },
     {
       "class": "bitmap",
-      "id": "5B88AE5C-1A9D-4AE5-9C9A-17E5022A4D23"
-    },
-    {
-      "class": "bitmap",
       "id": "0EA1B95B-027C-4E1F-B1B5-075BBA37BA13"
     },
     {
@@ -355,7 +351,7 @@
       "id": "11CD301C-63D7-4F7C-807B-22A9E312CEB7"
     }
   ],
-  "name": "Person 1 journey Copy",
+  "name": "nerd journey",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

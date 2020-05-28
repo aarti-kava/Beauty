@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -267,16 +267,12 @@
       "id": "47171D20-38A9-4935-976C-738B2DE5EC1E"
     },
     {
-      "class": "rectangle",
-      "id": "4A51928F-BB91-4673-9760-81596B28B91D"
+      "class": "group",
+      "id": "CE480355-406F-4342-80DB-28F60B8D089D"
     },
     {
       "class": "rectangle",
       "id": "429BFCF3-5C39-4096-A28F-D058AD4AB692"
-    },
-    {
-      "class": "text",
-      "id": "45188853-BDD6-4792-A640-DF7CB6B097B5"
     },
     {
       "class": "text",
@@ -355,7 +351,7 @@
       "id": "25B78941-671F-4E76-90D1-FC432E45CAA8"
     }
   ],
-  "name": "Person 1 journey",
+  "name": "Impulse buyer journey",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

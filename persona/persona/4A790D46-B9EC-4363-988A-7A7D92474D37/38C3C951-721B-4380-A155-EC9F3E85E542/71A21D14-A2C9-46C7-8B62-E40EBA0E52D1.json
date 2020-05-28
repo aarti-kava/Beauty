@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-DemiBoldItalic",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 33,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Interested & Pleasantly Surprised"
+    "string": "Delighted to find a new product that fulfils her need"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 138,
-    "x": 11,
-    "y": 6
+    "height": 60,
+    "width": 160,
+    "x": 13,
+    "y": 5
   },
-  "glyphBounds": "{{4, 3}, {131, 35}}",
+  "glyphBounds": "{{11, 2}, {138, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Interested & Pleasan",
+  "name": "Delighted to find a",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-DemiBoldItalic",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,

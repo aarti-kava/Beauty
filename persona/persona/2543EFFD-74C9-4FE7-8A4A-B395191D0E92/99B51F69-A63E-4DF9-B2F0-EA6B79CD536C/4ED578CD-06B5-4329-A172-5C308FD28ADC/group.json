@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 141,
-    "width": 325,
+    "width": 278,
     "x": 49,
     "y": 814
   },
@@ -38,11 +38,15 @@
     },
     {
       "class": "bitmap",
-      "id": "0217D347-6717-42D3-88FE-173AF28EA6AE"
+      "id": "7C89CADC-1A72-436A-AE7B-16112219E120"
     },
     {
       "class": "bitmap",
-      "id": "6FD6DBAD-2A4D-482E-9439-66285FFCB7D6"
+      "id": "5977CCB4-3DB3-4F47-A6C3-1B47D210AD51"
+    },
+    {
+      "class": "bitmap",
+      "id": "C30AB64A-7CAA-42A7-BBFD-183167F1E0C3"
     },
     {
       "class": "bitmap",

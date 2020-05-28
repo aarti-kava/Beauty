@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvenirNext-DemiBoldItalic",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 104,
-    "x": 29,
-    "y": 6
+    "width": 128,
+    "x": 17,
+    "y": 5
   },
-  "glyphBounds": "{{6, 3}, {92, 32}}",
+  "glyphBounds": "{{12, 2}, {105, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvenirNext-DemiBoldItalic",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
