@@ -9,36 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5529411764705883,
-            "green": 0.5529411764705883,
-            "red": 0.5529411764705883
+            "blue": 0.1294117647058823,
+            "green": 0.1294117647058823,
+            "red": 0.1294117647058823
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Bold",
-              "size": 16
+              "name": "AvenirNext-Regular",
+              "size": 14
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 40,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Brand Loyal | Existing User | Logged Out"
+    "string": "Shade Selector"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "CC6A1D06-C038-4F27-90F8-BBE525C5E5BE",
+  "do_objectID": "5D45B5E9-6FA2-4620-8C86-75555228DAB1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 367,
-    "x": 435,
-    "y": 75
+    "height": 20,
+    "width": 97,
+    "x": 1082,
+    "y": 209
   },
-  "glyphBounds": "{{1, 4}, {366, 16}}",
+  "glyphBounds": "{{0, 3}, {97, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Brand Loyal | Existi",
+  "name": "Shade Selector",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B55A6881-B358-40E8-B481-556291242D95",
+    "do_objectID": "B67E5AD9-D054-4EBA-B68F-D1466EBDDA9D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,23 +123,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5529411764705883,
-          "green": 0.5529411764705883,
-          "red": 0.5529411764705883
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Bold",
-            "size": 16
+            "name": "AvenirNext-Regular",
+            "size": 14
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         }
       },
@@ -150,7 +152,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

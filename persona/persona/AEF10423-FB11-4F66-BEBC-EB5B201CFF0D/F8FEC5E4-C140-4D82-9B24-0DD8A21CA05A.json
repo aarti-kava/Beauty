@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 15,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Experience Goal"
+    "string": "Business Goal"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 122,
-    "x": 33,
+    "width": 106,
+    "x": 49,
     "y": 919
   },
-  "glyphBounds": "{{25, 4}, {97, 39}}",
+  "glyphBounds": "{{31, 4}, {75, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Experience Goal",
+  "name": "Business Goal",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

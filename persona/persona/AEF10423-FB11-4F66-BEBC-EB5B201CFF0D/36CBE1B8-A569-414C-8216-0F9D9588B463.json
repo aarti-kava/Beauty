@@ -54,9 +54,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 146,
-    "x": 582,
-    "y": 976
+    "width": 185,
+    "x": 633,
+    "y": 976.0000000000002
   },
   "glyphBounds": "{{0, 3}, {137, 32}}",
   "hasClippingMask": false,

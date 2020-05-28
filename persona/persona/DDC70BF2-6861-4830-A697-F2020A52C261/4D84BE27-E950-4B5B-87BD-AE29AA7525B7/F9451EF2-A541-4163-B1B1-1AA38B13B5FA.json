@@ -30,7 +30,7 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 261,
+        "length": 299,
         "location": 0
       },
       {
@@ -61,7 +61,7 @@
           }
         },
         "length": 36,
-        "location": 261
+        "location": 299
       },
       {
         "_class": "stringAttribute",
@@ -91,10 +91,10 @@
           }
         },
         "length": 25,
-        "location": 297
+        "location": 335
       }
     ],
-    "string": "Aishwarya is an Asst. Manager at a corporate in Pune. She was introduced to makeup during a modelling phase that she went through in college. She learnt about the intricacies of skincare on her own buy following online influencers during this time. Religiously follows her skincare regime everyday, even during quarantine."
+    "string": "Aishwarya is an Asst. Manager at a corporate in Pune. She was introduced to makeup during a modelling phase that she went through in college. She learnt about the intricacies of skincare on her own buy following online influencers and doesn’t buy anything without thorough research. She religiously follows her skincare regime everyday, even during quarantine."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
