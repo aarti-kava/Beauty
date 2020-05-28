@@ -42,7 +42,8 @@
     "version": 127
   },
   "pages": [
-    "Page 1"
+    "persona",
+    "Documentation"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
