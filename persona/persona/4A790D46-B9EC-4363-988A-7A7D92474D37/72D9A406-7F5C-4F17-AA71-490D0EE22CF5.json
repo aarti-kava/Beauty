@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 64,
+        "length": 56,
         "location": 0
       }
     ],
-    "string": "Find a funky, unique lipcolour she can wear at an upcoming party"
+    "string": "Find the product she saw her influencer use in the video"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -56,9 +56,9 @@
     "height": 60,
     "width": 178,
     "x": 633,
-    "y": 363
+    "y": 365
   },
-  "glyphBounds": "{{0, 2}, {164, 57}}",
+  "glyphBounds": "{{0, 2}, {162, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Find a funky, unique",
+  "name": "Find the product she",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

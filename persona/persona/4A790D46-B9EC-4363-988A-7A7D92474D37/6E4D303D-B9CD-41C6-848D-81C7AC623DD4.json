@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 20,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Product Listing Page"
+    "string": "Search"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 633,
     "y": 208
   },
-  "glyphBounds": "{{1, 2}, {149, 17}}",
+  "glyphBounds": "{{0, 2}, {49, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Product Listing Page",
+  "name": "Search",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

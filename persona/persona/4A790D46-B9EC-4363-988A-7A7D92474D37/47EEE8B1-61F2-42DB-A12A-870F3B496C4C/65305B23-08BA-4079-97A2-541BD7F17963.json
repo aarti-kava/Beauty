@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "Still interested, Curious"
+    "string": "thinking / contemplating?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 15,
     "y": 5
   },
-  "glyphBounds": "{{9, 2}, {110, 34}}",
+  "glyphBounds": "{{7, 2}, {117, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Still interested, Cu",
+  "name": "thinking / contempla",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

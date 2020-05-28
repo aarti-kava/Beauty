@@ -184,38 +184,6 @@
     },
     {
       "class": "text",
-      "id": "21738646-CAF6-4A3E-A2CD-B5B102C2D693"
-    },
-    {
-      "class": "text",
-      "id": "609DD51C-1D6A-47FD-A74C-289FC83DC866"
-    },
-    {
-      "class": "text",
-      "id": "0FD4097E-CDFF-423C-A9C6-B8F8123D2E45"
-    },
-    {
-      "class": "text",
-      "id": "4C838D5F-B3B2-4BE0-BD24-61BCB7D601DA"
-    },
-    {
-      "class": "text",
-      "id": "F10B7CFA-8B09-40F8-BD20-BA28D1393050"
-    },
-    {
-      "class": "text",
-      "id": "F4EF4C3A-F822-49B5-9D20-5D09C137937A"
-    },
-    {
-      "class": "text",
-      "id": "665DB0BD-65DE-4136-A1D8-3E236BE046AA"
-    },
-    {
-      "class": "text",
-      "id": "AE304F35-1942-4A38-9D3C-DFBA0632B10E"
-    },
-    {
-      "class": "text",
       "id": "0AA34ABB-C3AF-4643-A355-8118942728F0"
     },
     {
@@ -264,15 +232,15 @@
     },
     {
       "class": "group",
-      "id": "2A6E6E16-818D-41F3-9523-ED4A6EDB8792"
-    },
-    {
-      "class": "group",
       "id": "899F0066-84B2-4251-9C1A-A7EC8D8A935B"
     },
     {
       "class": "group",
       "id": "E3F7493C-E071-4C17-BB7F-82F8F211168E"
+    },
+    {
+      "class": "group",
+      "id": "8A846FC1-4CD3-45CE-90BA-1DCDC3AB2DCA"
     },
     {
       "class": "rectangle",
@@ -336,19 +304,23 @@
     },
     {
       "class": "bitmap",
-      "id": "0EA1B95B-027C-4E1F-B1B5-075BBA37BA13"
-    },
-    {
-      "class": "group",
-      "id": "40E06815-A6DA-4F4D-9455-3B3B5C2AF5C8"
-    },
-    {
-      "class": "bitmap",
       "id": "F030FC00-84AA-4DF9-9212-DAFA6550F6B3"
     },
     {
       "class": "bitmap",
       "id": "11CD301C-63D7-4F7C-807B-22A9E312CEB7"
+    },
+    {
+      "class": "bitmap",
+      "id": "A66DCACD-1CE7-44A7-9A11-133B71F7A422"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD2DA348-CF1F-4028-9854-1DF953F8849E"
+    },
+    {
+      "class": "bitmap",
+      "id": "2F828C40-D216-4F0A-894D-66C219965658"
     }
   ],
   "name": "nerd journey",

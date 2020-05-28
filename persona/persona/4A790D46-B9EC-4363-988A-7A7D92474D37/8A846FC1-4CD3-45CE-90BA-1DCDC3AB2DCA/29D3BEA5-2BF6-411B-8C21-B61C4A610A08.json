@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EE46AB45-036A-452F-BAB1-6A1DAD275DE5",
+  "do_objectID": "29D3BEA5-2BF6-411B-8C21-B61C4A610A08",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 160,
+    "height": 36,
+    "width": 129,
     "x": 0,
     "y": 0
   },
@@ -31,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle 2 Copy 3",
+  "name": "Rectangle 2 Copy 5",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7B42731B-D7FB-4733-9742-C412D7737D65",
+    "do_objectID": "D6F6B771-8EBF-45FB-A710-5E8494A05A2F",
     "endMarkerType": 0,
     "fills": [
       {

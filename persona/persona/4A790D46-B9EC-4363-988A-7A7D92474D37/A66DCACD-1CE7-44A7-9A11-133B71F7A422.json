@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "0EA1B95B-027C-4E1F-B1B5-075BBA37BA13",
+  "do_objectID": "A66DCACD-1CE7-44A7-9A11-133B71F7A422",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 28.96551724137931,
+    "height": 29.25,
     "width": 30,
-    "x": 510,
-    "y": 497
+    "x": 492,
+    "y": 508
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/119f18fa44b920c0c94c23121c126c411522941c.png",
+    "_ref": "images/8d1458141e85d27e6d48a8d6fe67644f6e08f554.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 216,
@@ -35,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon (42)@3x Copy",
+  "name": "Icon (9)@3x",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C5059298-01C0-4D3A-A5E5-2887DBF33FC0",
+    "do_objectID": "D82C01DA-5669-40FF-A706-D0477DCF936E",
     "endMarkerType": 0,
     "fills": [
     ],

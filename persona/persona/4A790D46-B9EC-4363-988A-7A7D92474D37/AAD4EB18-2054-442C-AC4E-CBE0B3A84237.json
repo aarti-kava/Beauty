@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 42,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Find the product she just saw in the video"
+    "string": "Find the easiest way to complete task"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -56,9 +56,9 @@
     "height": 40,
     "width": 176,
     "x": 419,
-    "y": 377
+    "y": 373
   },
-  "glyphBounds": "{{-1, 2}, {152, 37}}",
+  "glyphBounds": "{{0, 2}, {165, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Find the product she",
+  "name": "Find the easiest way",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

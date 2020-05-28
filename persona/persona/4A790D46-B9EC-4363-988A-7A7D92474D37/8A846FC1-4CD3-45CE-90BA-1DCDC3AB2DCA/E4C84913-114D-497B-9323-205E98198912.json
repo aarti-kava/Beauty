@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvenirNext-DemiBoldItalic",
               "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 20,
             "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 29,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Filter by Positive & Negative"
+    "string": "Neutral"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "4C838D5F-B3B2-4BE0-BD24-61BCB7D601DA",
+  "do_objectID": "E4C84913-114D-497B-9323-205E98198912",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 208,
-    "x": 841,
-    "y": 975
+    "width": 55,
+    "x": 37,
+    "y": 7
   },
-  "glyphBounds": "{{1, 2}, {203, 17}}",
+  "glyphBounds": "{{0, 2}, {55, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Filter by Positive &",
+  "name": "Neutral",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "305008A5-9549-4CB9-9622-E32F306776CC",
+    "do_objectID": "A3C292ED-9B9A-43CE-ACFE-80133DB617FE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,21 +123,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1294117647058823,
-          "green": 0.1294117647058823,
-          "red": 0.1294117647058823
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvenirNext-DemiBoldItalic",
             "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 20,
           "minimumLineHeight": 20,
@@ -148,7 +148,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
