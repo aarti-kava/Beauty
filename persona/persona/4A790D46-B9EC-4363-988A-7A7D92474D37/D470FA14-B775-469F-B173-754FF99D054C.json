@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 30,
+        "length": 67,
         "location": 0
       }
     ],
-    "string": "Cant add multiple items to bag"
+    "string": "Not able to get valuable user centric information on Ecom platforms"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 60,
     "width": 194,
     "x": 1082,
-    "y": 813
+    "y": 803
   },
-  "glyphBounds": "{{0, 2}, {193, 37}}",
+  "glyphBounds": "{{0, 2}, {175, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Cant add multiple it",
+  "name": "Not able to get valu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

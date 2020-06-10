@@ -30,11 +30,11 @@
             "tighteningFactorForTruncation": 0.05
           }
         },
-        "length": 111,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Has to read all the reviews of the shades she likes to see if someone said it transfers easily or drys the lips"
+    "string": "Lots of text , Information not sorted"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 40,
     "width": 208,
-    "x": 841,
-    "y": 731
+    "x": 1082,
+    "y": 753
   },
-  "glyphBounds": "{{0, 2}, {190, 97}}",
+  "glyphBounds": "{{0, 2}, {205, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Has to read all the",
+  "name": "Lots of text , Infor",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

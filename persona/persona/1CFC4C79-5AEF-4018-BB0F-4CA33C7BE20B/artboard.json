@@ -75,10 +75,6 @@
       "id": "AB5EE6A9-FA47-4910-B6C7-90762A2DDC54"
     },
     {
-      "class": "bitmap",
-      "id": "B539B87B-A77C-480B-875D-64AD6E058AB3"
-    },
-    {
       "class": "text",
       "id": "F9A475CB-4EA3-4D9E-B4DB-24003793D847"
     },
@@ -109,142 +105,6 @@
     {
       "class": "rectangle",
       "id": "F4F5C24E-87CB-42DB-A687-0648EF7C5BB9"
-    },
-    {
-      "class": "text",
-      "id": "C5578826-B602-45A5-94D6-72495C8A82E9"
-    },
-    {
-      "class": "text",
-      "id": "00A7BC4E-D113-44A0-A7FA-7B6E7FF56E38"
-    },
-    {
-      "class": "text",
-      "id": "07473724-3971-4C9F-B14D-2683B1E020DE"
-    },
-    {
-      "class": "text",
-      "id": "5C35D0EE-0FB9-4058-A195-458DE27C6693"
-    },
-    {
-      "class": "text",
-      "id": "3F484650-B447-4527-B8A9-28436855C8F8"
-    },
-    {
-      "class": "text",
-      "id": "3C5E26B5-8E2D-4E43-AECB-8BCF314DA8E5"
-    },
-    {
-      "class": "text",
-      "id": "3A88E22C-212D-4912-8F46-1159BFE63BB2"
-    },
-    {
-      "class": "text",
-      "id": "2EFC00B2-578B-4FAE-A7C1-CE5B5BFEBB2D"
-    },
-    {
-      "class": "text",
-      "id": "CDBAEFCB-EDEC-401F-86CE-F0D16A44FA19"
-    },
-    {
-      "class": "text",
-      "id": "5DC1361E-754C-492E-AD3A-FBEB90DC8794"
-    },
-    {
-      "class": "text",
-      "id": "60DA9C0E-78D3-4880-902A-65D49BF7A1E1"
-    },
-    {
-      "class": "text",
-      "id": "A27A7857-B3D8-481C-BFB4-582D9519C4F8"
-    },
-    {
-      "class": "text",
-      "id": "A851BE46-5608-4A62-B672-B3B7DF3EAE4E"
-    },
-    {
-      "class": "text",
-      "id": "0DE10D8B-8189-454F-9DB3-2180E7BFEC1F"
-    },
-    {
-      "class": "text",
-      "id": "934A392D-22D4-447B-8C60-3F617D47A74E"
-    },
-    {
-      "class": "text",
-      "id": "8428E238-5FD2-4467-B283-907FBF75C2D8"
-    },
-    {
-      "class": "text",
-      "id": "A3AD79AE-9804-4398-A002-BA92F3089FA2"
-    },
-    {
-      "class": "text",
-      "id": "0D07D39D-C9C3-48A1-85F4-1E48FDD2D825"
-    },
-    {
-      "class": "text",
-      "id": "F5403AD1-CEE4-49AE-93F5-597ED9B9AC3D"
-    },
-    {
-      "class": "text",
-      "id": "0667AF19-AFCC-4D57-AAA9-ECF8991FEB01"
-    },
-    {
-      "class": "text",
-      "id": "FDE744C0-73DF-4CC8-BD2E-A2F1E7572BEA"
-    },
-    {
-      "class": "text",
-      "id": "41FB468C-961A-4AAB-8A07-BEB8DCB4EC98"
-    },
-    {
-      "class": "text",
-      "id": "182AED71-A3E3-4FFE-AA60-A599A2B41E2B"
-    },
-    {
-      "class": "text",
-      "id": "64F61184-D826-4D3D-873F-75355CB8ACCA"
-    },
-    {
-      "class": "text",
-      "id": "3F574D67-C26E-4654-AE83-8F4C1C28A3EA"
-    },
-    {
-      "class": "text",
-      "id": "8CD90A6F-E729-43DF-B378-334EFDC22311"
-    },
-    {
-      "class": "text",
-      "id": "A0BC0726-7FC4-41FB-80CC-B3A44A0E9568"
-    },
-    {
-      "class": "text",
-      "id": "30116D0E-E262-4A59-8245-9A60E82983BF"
-    },
-    {
-      "class": "text",
-      "id": "9D1FBBD2-D999-4672-9C0B-EB55485D9C34"
-    },
-    {
-      "class": "text",
-      "id": "A14052BC-F617-4FD7-9C13-918B5AA7A688"
-    },
-    {
-      "class": "text",
-      "id": "E4CD8C2B-1CBE-4B30-8A21-78C7FB6847BD"
-    },
-    {
-      "class": "text",
-      "id": "A6F6F58D-DB0A-41B8-A178-40F126C9F3C9"
-    },
-    {
-      "class": "text",
-      "id": "D36DDE53-A579-4839-8EDF-35F7DB5625FA"
-    },
-    {
-      "class": "text",
-      "id": "CF23AE3B-D5A0-4121-B100-743CCDA2E956"
     },
     {
       "class": "shapePath",
@@ -321,34 +181,6 @@
     {
       "class": "shapePath",
       "id": "6A464D9C-87DB-4ACD-A7D7-8AC6C7808ABF"
-    },
-    {
-      "class": "bitmap",
-      "id": "438B08F8-ED09-4BAD-A7C7-BC04B48F72E7"
-    },
-    {
-      "class": "bitmap",
-      "id": "91523E86-1097-4808-ABD2-D59201A4BBD6"
-    },
-    {
-      "class": "bitmap",
-      "id": "D5E62E38-F97A-4700-B6AB-8CF7765F37A6"
-    },
-    {
-      "class": "bitmap",
-      "id": "CE6E594A-47E3-4ED4-A8D1-6427B63F1A63"
-    },
-    {
-      "class": "group",
-      "id": "8C50F184-B967-49D4-9BA4-522F8D4F88BC"
-    },
-    {
-      "class": "bitmap",
-      "id": "B0D47DE4-AD16-49C4-8EA2-5AD22173D4E6"
-    },
-    {
-      "class": "bitmap",
-      "id": "9439FB97-2C96-43FA-A7BC-E27B409D8678"
     }
   ],
   "name": "Researcher Journey",

@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,7 +91,7 @@
       "id": "CC8199A8-CB33-43AC-9873-13113A1D5EEB"
     }
   ],
-  "name": "Person 2",
+  "name": "16 Person 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

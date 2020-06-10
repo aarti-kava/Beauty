@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 3,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 20,
             "minimumLineHeight": 20,
@@ -137,7 +137,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 3,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 20,
           "minimumLineHeight": 20,

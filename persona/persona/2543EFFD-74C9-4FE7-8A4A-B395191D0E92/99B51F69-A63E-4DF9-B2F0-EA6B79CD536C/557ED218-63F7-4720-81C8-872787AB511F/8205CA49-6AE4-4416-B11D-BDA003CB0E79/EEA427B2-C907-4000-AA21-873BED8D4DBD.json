@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "24"
+    "string": "21"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 329,
     "y": 0
   },
-  "glyphBounds": "{{0, 1}, {21, 14}}",
+  "glyphBounds": "{{0, 1}, {17, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "24",
+  "name": "21",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
